@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+# 文章管理系统
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 技术栈
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Vue3 + Vue-Router + Pinia + Element-Plus + Axios
+
+## 主要功能
+
+实现了注册、登录功能，可对文章进行分类，可在分类中添加相应的文章内容详情。其中文章的详情编辑可以添加标题、文章所属分类、文章封面照片、文章主体内容。对文章分类和详情可进行增删改查操作。同时可对个人信息进行编辑，如个人头像、昵称，、密码等基本信息进行更改。
